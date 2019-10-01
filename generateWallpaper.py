@@ -133,6 +133,13 @@ colors = [
         '#f26a83',#WILD WATERMELON
         '#f25773',#FIERY ROSE
     ]
+    [
+        '#a63446',
+        '#fff9fa',
+        '#910b1f',
+        '#050000',
+        '#7c1827',
+    ]
 ]
 colorMap = LinearSegmentedColormap.from_list("mycmap", colors[random.randint(1,len(colors))])
 commandList = []
