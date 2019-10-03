@@ -125,13 +125,20 @@ colors = [
         '#c1d875',#MEDIUM SPRING BUD
         '#aac454',#MONOCHROMATIC MODE
         '#7d962a',#OLIVE DRAB (#3)
-    ]
+    ],
     [
         '#a54657',#ENGLISH RED
         '#59262f',#CAPUT MORTUUM
         '#f77e94',#TULIP
         '#f26a83',#WILD WATERMELON
         '#f25773',#FIERY ROSE
+    ],
+     [
+        '#ffbaba',#REDDISH
+        '#ff7b7b',
+        '#ff5252',
+        '#ff0000',
+        '#a70000',
     ]
 ]
 colorMap = LinearSegmentedColormap.from_list("mycmap", colors[random.randint(1,len(colors))])
