@@ -139,6 +139,13 @@ colors = [
         '#B8CDF8',#PALE CORNFLOWER BLUE
         '#0B3142',#YANKEES BLUE
         '#9C92A3',#MANATEE
+    ],
+    [
+        '#0a6945',#OCTANE PALETTE
+        '#6ca58f',
+        '#042a1b',
+        '#b5d2c7',
+        '#3a876a',
     ]
 
 ]
