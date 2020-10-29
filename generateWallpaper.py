@@ -141,6 +141,13 @@ colors = [
     "#90c2e7"#Pale Cerulean
   ],
   [
+    "#651e54",
+    "#f1e9e7",
+    "#a991f1",
+    "#3d6ed0",
+    "#2e2e2d",
+  ],
+  [
     "#780116",#UP Maroon
     "#f7b538",#Maximum Yellow Red
     "#db7c26",#Ochre
