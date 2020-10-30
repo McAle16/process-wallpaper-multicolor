@@ -155,6 +155,13 @@ colors = [
     "#fcca22"
   ],
   [
+    "#40123d",
+    "#f1d3f2",
+    "#b580c0",
+    "#47c4c4",
+    "#172513"
+  ],
+  [
     "#780116",#UP Maroon
     "#f7b538",#Maximum Yellow Red
     "#db7c26",#Ochre
